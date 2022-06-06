@@ -1,4 +1,10 @@
-### Hi there 👋
+ I'm **Neelkanth Poosa**, pursuing **MS CS** at 🎓 🏫 **Rutgers University**, New Brunswick, NJ.
+
+- Experienced in Web Application Development, Business Intelligence, Data Visualization, Databases, and Blockchain.
+
+- Currently looking for new-grad Full-Time opportunities for Summer'23.
+
+- You may reach me at neelkanth.poosa@rutgers.edu.
 
 <!--
 **neelkanthpoosa/neelkanthpoosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
